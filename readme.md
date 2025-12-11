@@ -1,7 +1,7 @@
-![Cuddliness Trophies](https://github-trophies.vercel.app/?username=cuddliness)
+
 <h1 align="center">Hi 👋, I'm Belle</h1>
 <h3 align="center">A passionate backend developer from The netherlands</h3>
-
+![Cuddliness Trophies](https://github-trophies.vercel.app/?username=cuddliness)
 - 🔭 I’m currently working on [Stacy allround discordbot](private)
 
 - 🌱 I’m currently learning **Spring, Hibernate**
