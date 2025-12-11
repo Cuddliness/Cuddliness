@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Belle</h1>
 <h3 align="center">A passionate backend developer from The netherlands</h3>
-- 🔭 I’m currently working on ![SDBB](https://github.com/Cuddliness/SDBB)
+- 🔭 I’m currently working on [SDBB](https://github.com/Cuddliness/SDBB)
 
 - 🌱 I’m currently learning **Spring, Hibernate**
 
